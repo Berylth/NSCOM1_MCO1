@@ -12,12 +12,12 @@ Implementation of a Trivial File Transfer Protocol (TFTP) client for Tftpd64, ad
 3) Choose a base directory in the Tftpd64 to store the folders.
 4) Compile the java program using the command:
 ```
-javac Client.java
+  javac Client.java
 ```
 6) Run the java program using the command:
-```
-java Client
-```
+  ```
+  java Client
+  ```
 
 ## Members
 - Loja, Kyle Flor
