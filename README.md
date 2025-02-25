@@ -7,7 +7,7 @@ Implementation of a Trivial File Transfer Protocol (TFTP) client for Tftpd64, ad
 3) [Tftpd64](https://pjo2.github.io/tftpd64/)
 
 ## How to run
-1) Download Tftpd64 and the java program.
+1) Download Tftpd64 and the java program in com/tftp/Client.java.
 2) Enable TFTP service in the setting of Tftpd64.
 3) Choose a base directory in the Tftpd64 to store the folders.
 4) Run the java program using the command:
