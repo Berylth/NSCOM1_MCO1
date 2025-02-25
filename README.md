@@ -11,7 +11,7 @@ Implementation of a Trivial File Transfer Protocol (TFTP) client for Tftpd64, ad
 2) Enable TFTP service in the setting of Tftpd64.
 3) Choose a base directory in the Tftpd64 to store the folders.
 4) Run the java program using the command:
-> `java Client`
+`java Client`
 
 ## Members
 - Loja, Kyle Flor
