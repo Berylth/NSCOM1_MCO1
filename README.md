@@ -15,7 +15,9 @@ Implementation of a Trivial File Transfer Protocol (TFTP) client for Tftpd64, ad
    javac Client.java
    ```
 6) Run the java program using the command:
-```java Client```
+```
+java Client
+```
 
 ## Members
 - Loja, Kyle Flor
